@@ -14,10 +14,3 @@ A Python program to manage your personal book collection. This tool allows you t
 
 - Python 3.x (No external libraries required)
 
-## How to Use
-
-1. Clone or download the repository.
-2. Run the `book_collection_manager.py` file.
-
-```bash
-python book_collection_manager.py
